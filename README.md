@@ -26,18 +26,18 @@ Veri biliminin ve yapay zekanın kalbine giden yol buradan başlar. Bu modül bo
 * **İstatistiksel Grafikler:** Histogram, Kutu çizimi (Boxplot), Isı haritaları.
 * **Özelleştirme:** Alt çizimler (Subplots) ve grafik stil yönetimi.
 
----
+
 
 ## 📚 Öğrenim Kaynakları
 
 Öğrenirken kullanabileceğiniz tavsiye edilen kaynaklar:
-* 🎥 **Video Eğitimler:** [İlgili YouTube Oynatma Listesi Linki]
+* 🎥 **Ayrıntılı Kaynak Listesi:** [Kaynak Matrisi](./Mufredat(curriculum)/module-1-details.md)
 * 📖 **Dokümantasyon:** [Resmi Python Dokümanları](https://docs.python.org/3/)
 * 📑 **Cheat Sheets:** Repo içindeki `resources/` klasörüne göz atın.
 
----
 
-## 🚀 Görevler ve Proje Teslimi
+
+## 🚀 Alıştırmalar, Ödevler ve Proje Teslimi
 
 Her hafta veya ana konu bitiminde yapman gereken mini projeler aşağıdadır:
 
@@ -59,13 +59,14 @@ Her hafta veya ana konu bitiminde yapman gereken mini projeler aşağıdadır:
 | **4.1** | Matplotlib Temelleri (Subplots) | [Link] | [Link] | [Link] | [Link] |
 | **4.2** | İleri Görselleştirme & Özelleştirme | [Link] | [Link] | [Link] | [Link] |
 | **4.3** | Seaborn ile İstatistiksel Çizimler | [Link] | [Link] | [Link] | [Link] |
+---
 
 ### 📥 Nasıl Teslim Ederim?
 1. Bu depoyu **Fork** et.
 2. Kendi isminle bir **Branch** oluştur.
 3. Çalışmalarını `submissions/Ad-Soyad/` klasörüne yükle.
 4. **Pull Request** açarak liderine onaya gönder.
-   > *Detaylı anlatım için: Ana Rehberdeki `GitHub Setup` dosyasını oku.*
+   > *Detaylı anlatım için: Ana Rehberdeki [github-setup.md](./Rehberler(Guides)/github-setup.md) dosyasını oku.*
 
 ---
 
@@ -76,14 +77,14 @@ Projeleri çalıştırmak için bilgisayarında **Python 3.8+** yüklü olmalıd
 ```bash
 pip install numpy pandas matplotlib seaborn
 ```
----
 
 ## ❓ Sorun mu Var?
 
 Eğer bir konuda takılırsan:
+* Organizasyonun ana sayfasındaki **[Discussions](https://github.com/orgs/GaziFintech/discussions)** kısmından arkadaşlarına ve proje ekibine sorabilirsin.
 
-* **Önce Issues kısmına bak**, belki arkadaşın aynı soruyu sormuştur.
-* **Yoksa "New Issue" diyerek** sorunu bizlere ilet.
+Eğer teknik bir problem yaşarsan:
+* **"New Issue" diyerek** sorunu bizlere ilet.
 
 ---
 
