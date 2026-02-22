@@ -31,7 +31,7 @@ Veri biliminin ve yapay zekanın kalbine giden yol buradan başlar. Bu modül bo
 ## 📚 Öğrenim Kaynakları
 
 Öğrenirken kullanabileceğiniz tavsiye edilen kaynaklar:
-* 🎥 **Ayrıntılı Kaynak Listesi:** [Kaynak Matrisi](./Mufredat(curriculum)/module-1-details.md)
+* 🎥 **Ayrıntılı Kaynak Listesi:** [Kaynak Matrisi](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/Mufredat(curriculum)/module-1-details.md)
 * 📖 **Dokümantasyon:** [Resmi Python Dokümanları](https://docs.python.org/3/)
 * 📑 **Cheat Sheets:** Repo içindeki `resources/` klasörüne göz atın.
 
