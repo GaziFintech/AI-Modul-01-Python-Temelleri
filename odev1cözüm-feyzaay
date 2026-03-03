@@ -1,0 +1,12 @@
+adi = input("Lütfen Adınızı Giriniz:  ")
+soyadi = input("Lütfen Soyadınızı Giriniz:  ")
+yas = int(input("Lütfen Yaşınızı Giriniz:  "))
+sicaklik_celsius = float(input("Lütfen Sıcaklığı Celsius Cinsinden Giriniz:  "))
+
+sicaklik_fahrenheit = sicaklik_celsius * 18 + 32 
+
+resit_mi = yas >= 18 
+
+print(f"Merhaba {adi} , {soyadi} , {yas}  yaşındasınız. Reşitlik Durumu : {resit_mi}.")
+print(f"Girdiğiniz {sicaklik_celsius} derece , {sicaklik_fahrenheit} Fahrenheite eşittir.")
+
